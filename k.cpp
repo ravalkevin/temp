@@ -9,7 +9,7 @@ using namespace std;
 void solve(){
 
 }
-
+//i love arimdasklmvdklsmc
 int main(){
     int t;
     cin>>t;
